@@ -8,19 +8,21 @@
 
 🧑‍💻 I'm majoring in Software Development at the American University of Phnom Penh. Passionate about building impactful digital experiences, I enjoy working on real-world projects using modern technologies.
 
-💻 My current focus is on full-stack web development. I love turning ideas into fully functional applications and continuously improving my skills through hands-on learning.
+💻 A backend-focused developer dedicated to database management and clean logic, seeking an internship to support a professional development team.
 
-### 🛠️ Core Expertise
-- **Modern Monoliths**  —  Laravel, React, Inertia.js (SPA Architecture)
-- **API Development**  —  Node.js, Express, Eloquent ORM, REST
-- **Security & Auth**  —  RBAC, JWT, Stripe & KHQR Integration
-- **Cloud & Real-time**  —  Firebase Firestore, Cloudinary Media
-- **Frontend Mastery**  —  Tailwind CSS, Responsive Mobile-First Design
-
-### 🔗 Let's Connect:  
-- 🌐 My Portfolio Website: [Click here](https://portfolio-website-pied-alpha.vercel.app/) <br>
-- 💼 My LinkedIn: [Click here](https://linkedin.com/in/vannetnang) <br>
-- 📧 My Email: [Click here](mailto:VannetNang59@gmail.com) <br>
+### 🔗 Let's get in touch! Connect with me on:
+<a href="https://portfolio-website-pied-alpha.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/vannetnang">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:VannetNang59@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/___stay.cool____/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
@@ -39,8 +41,22 @@
 ---
 
 <div align="center">
-  
-![Alt](https://repobeats.axiom.co/api/embed/325e7af6d5051be5a70b960fe1a55a1a446479ef.svg "Repobeats analytics image")
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VannetNang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="450px" alt="Vannet's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VannetNang&theme=tokyonight&hide_border=true&layout=compact" width="350px" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=VannetNang&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake-dark.svg" />
