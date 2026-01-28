@@ -43,8 +43,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VannetNang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VannetNang&theme=tokyonight&hide_border=true&layout=compact" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VannetNang&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VannetNang&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="41%" />
 </p>
 
 <p align="center">
