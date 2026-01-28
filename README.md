@@ -11,16 +11,16 @@
 💻 A backend-focused developer dedicated to database management and clean logic, seeking an internship to support a professional development team.
 
 ### 🔗 Let's get in touch! Connect with me on:
-<a href="https://portfolio-website-pied-alpha.vercel.app/">
+<a href="https://portfolio-website-pied-alpha.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/vannetnang">
+<a href="https://linkedin.com/in/vannetnang" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:VannetNang59@gmail.com">
+<a href="mailto:VannetNang59@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/___stay.cool____/">
+<a href="https://www.instagram.com/___stay.cool____/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -42,27 +42,22 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=VannetNang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="450px" alt="Vannet's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VannetNang&theme=tokyonight&hide_border=true&layout=compact" width="350px" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=VannetNang&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VannetNang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VannetNang&theme=tokyonight&hide_border=true&layout=compact" width="41%" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake.svg" />
-</picture><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VannetNang&theme=tokyonight&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VannetNang/VannetNang/output/github-snake.svg" />
+  </picture>
+</p>
 
 </div>
 
