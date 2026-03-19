@@ -6,9 +6,15 @@
 
 ---
 
-🧑‍💻 I'm majoring in Software Development at the American University of Phnom Penh. Passionate about building impactful digital experiences, I enjoy working on real-world projects using modern technologies.
+### 🧑‍💻 My Background
 
-💻 A backend-focused developer dedicated to database management and clean logic, seeking an internship to support a professional development team.
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 Software Development Student &nbsp;|&nbsp; *American University of Phnom Penh (AUPP)* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate about building impactful digital experiences, I combine a strong backend foundation with a growing proficiency in frontend technologies to deliver end-to-end solutions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Junior Full Stack Developer &nbsp;|&nbsp; *Intern at Vital Premium Water* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently sharpening my skills in a professional, high-volume environment. I am dedicated to writing scalable code, optimizing database architectures, and bridging the gap between user-centric design and robust server-side logic.
+
+---
 
 ### 🔗 Let's get in touch! Connect with me on:
 <a href="https://portfolio-website-pied-alpha.vercel.app/" target="_blank">
